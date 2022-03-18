@@ -1,2 +1,2 @@
 # IOS 置底廣告 Sample Project
-This project hosts samples for the [Android ClickForce SDK.](http://cdn.doublemax.net/sdk/Android-AdBottomScrollView.html)
+This project hosts samples for the [iOS CFAD SDK.](https://cdn.holmesmind.com/sdk/iOS-AdBottom.html)
